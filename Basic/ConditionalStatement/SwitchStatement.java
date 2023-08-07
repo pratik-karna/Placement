@@ -15,7 +15,7 @@ public class SwitchStatement {
             case 3:
                 System.out.println("University");
             default:
-            System.out.println("Kaviya Pagal Hai");    
+                System.out.println("Kaviya Pagal Hai");
 
         }
     }
