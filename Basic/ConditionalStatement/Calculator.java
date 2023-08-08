@@ -1,6 +1,5 @@
 package Basic.ConditionalStatement;
 
-import java.io.*;
 import java.util.*;
 
 public class Calculator {
@@ -30,6 +29,10 @@ public class Calculator {
 
             case '/':
                 System.out.print(a / b);
+                break;
+
+            case '%':
+                System.out.print(a % b);
                 break;
 
             default:
