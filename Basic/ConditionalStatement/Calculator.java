@@ -31,10 +31,6 @@ public class Calculator {
                 System.out.print(a / b);
                 break;
 
-            case '%':
-                System.out.print(a % b);
-                break;
-
             default:
                 System.out.print("Invalid Operator");
 
