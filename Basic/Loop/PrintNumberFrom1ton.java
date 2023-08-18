@@ -8,7 +8,7 @@ public class PrintNumberFrom1ton {
         int range = sc.nextInt();
         int counter = 1;
         while (counter <= range) {
-            System.out.println(counter + " ");
+            System.out.print(counter + " ");
             sc.close();
         }
         System.out.println();
