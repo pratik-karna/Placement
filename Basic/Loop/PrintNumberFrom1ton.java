@@ -1,7 +1,5 @@
 package Basic.Loop;
-
 import java.util.*;
-
 public class PrintNumberFrom1ton {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
