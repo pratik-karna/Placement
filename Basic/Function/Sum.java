@@ -1,7 +1,8 @@
 package Basic.Function;
 import java.util.*;
 public class Sum {
-    public static void CalculateSum(int a, int b){
+    public static void CalculateSum(int a, int b)
+    {  //CalculateSum is function
         int Sum = a + b;
         System.out.println("Sum:"+ Sum);
 
@@ -12,7 +13,7 @@ public class Sum {
         int a = sc.nextInt();
         System.out.print("Enter b:");
         int b = sc.nextInt();
-        CalculateSum(a, b);
+        CalculateSum(a, b);          //Function call
         sc.close();
        
 
