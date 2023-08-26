@@ -1,10 +1,12 @@
 package Basic.Function;
 import java.util.*;
 public class Sum {
-    public static void CalculateSum(int a, int b)  ///Declaring the Function 
+    public static int CalculateSum(int a, int b)  // int a int b is parameter for calling the a & b
+    //Declaring the CalculateSum Function 
+
     { 
-        int Sum = a + b;
-        System.out.println("Sum:"+ Sum);
+        int sum = a + b;
+        return sum;
 
     }
     public static void main(String[] args){
@@ -13,7 +15,9 @@ public class Sum {
         int a = sc.nextInt();
         System.out.print("Enter b:");
         int b = sc.nextInt();
-        CalculateSum(a, b);          //Calling the Function
+        int sum = CalculateSum(a, b);   // arguments parameters || actual parameters
+          //Calling the CalculateSum Function
+        System.out.println("sum is "+ sum);
         sc.close();
        
 
