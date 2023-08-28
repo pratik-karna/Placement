@@ -15,7 +15,6 @@ public class PrintSquarePattern {
         while(i <= 4){
             System.out.println("* * * *");
             i++;
-
         }
     }
     
