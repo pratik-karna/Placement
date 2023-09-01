@@ -16,6 +16,5 @@ public class Product {
         multiply(a, b);
         sc.close();
         
-    }
-    
+    } 
 }
