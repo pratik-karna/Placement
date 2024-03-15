@@ -9,7 +9,6 @@ public class input {
         String s = sc.nextLine();
         System.out.print(s);
        
-
     }
     
 }
