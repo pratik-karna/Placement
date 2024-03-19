@@ -7,6 +7,6 @@ public class averageofthreenumber {
         int c = 30;
         int avg = (a+b+c)/3;
         System.out.println(avg);
-    }-
+    }
     
 }

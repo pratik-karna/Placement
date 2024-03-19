@@ -2,7 +2,7 @@ package Arrays;
 
 //Linear Search Algorithm
 
-;public class LinearSearch {
+public class LinearSearch{
     public static int linear(int numbers[], int key){
         for(int i=0; i<=numbers.length; i++){
             if(numbers[i] == key){
