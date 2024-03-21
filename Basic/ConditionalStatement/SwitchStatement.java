@@ -2,7 +2,7 @@ package Basic.ConditionalStatement;
 
 public class SwitchStatement {
     public static void main(String[] args) {
-        int number = 2;
+        int number = 3;  //Switch  also support String Value
         switch (number) {
             case 1:
                 System.out.println("School");
@@ -14,8 +14,10 @@ public class SwitchStatement {
 
             case 3:
                 System.out.println("University");
+                break;
+
             default:
-                System.out.println("Kaviya Pagal Hai");
+                System.out.println("Not Valid");
 
         }
     }

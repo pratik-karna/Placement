@@ -3,12 +3,12 @@ public class AssignmentOperator {
 
         // Equal to Assignment Operator
 
-        /*
-         * int a = 10;
-         * a = a + 20;
-         * System.out.println(a);
-         * 
-         */
+        
+         int a = 10;
+         a = a + 20;
+         System.out.println(a);
+        
+         
 
         /*
          * 

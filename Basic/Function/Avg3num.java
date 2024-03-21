@@ -1,6 +1,6 @@
 package Basic.Function;
 
-public class averageofthreenumber {
+public class Avg3num {
     public static void main(String args[]){
         int a = 10;
         int b = 20;

@@ -16,8 +16,6 @@ public class PositiveOrNegativeNumber
         sc.close();
 
 
-
-
     }
     
 

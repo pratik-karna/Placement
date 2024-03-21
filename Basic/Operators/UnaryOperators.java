@@ -5,11 +5,11 @@ public class UnaryOperators {
     public static void main(String[] args) {
 
         // This is used for the positive value with one increase
-        // There are two type of varients are available for two purpose
+        // There are two type of variants are available for two purpose
 
-        /*
+        /* 
          * int a = 10;
-         * int b = a++;
+         * int b = a;
          * System.out.println(b);
          * System.out.println(a);
          * 
@@ -24,7 +24,7 @@ public class UnaryOperators {
          */
 
         // This is used for the negative value with one decrease
-        // There are two type of varients are available for two purpose
+        // There are two type of variants are available for two purpose
 
         /*
          * int a = 10;
@@ -42,6 +42,10 @@ public class UnaryOperators {
          * System.out.println(b);
          * 
          */
+        int a = 5;
+        int b = ++a;
+        System.out.println("a: "  +a+ ", b: " +b);
+
     }
 
 }
