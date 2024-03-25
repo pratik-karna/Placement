@@ -29,18 +29,18 @@ public class FunctionOverloading {
 //Using different Data Types
     
 
-    public static int sum(int a, int b){
-        return a+b;
-    }
+    // public static int sum(int a, int b){
+    //     return a+b;
+    // }
 
-    public static float sum(float a, float b){
-        return a+b;
-    }
+    // public static float sum(float a, float b){
+    //     return a+b;
+    // }
 
-    public static void main(String args[]){
-        System.out.println("Addition of two number:"+ sum(10,10));
-        System.out.println("Addition of two float values:"+ sum(9.8f, 10.2f));
-    }
+    // public static void main(String args[]){
+    //     System.out.println("Addition of two number:"+ sum(10,10));
+    //     System.out.println("Addition of two float values:"+ sum(9.8f, 10.2f));
+    // }
 
 
 }
