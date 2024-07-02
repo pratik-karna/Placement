@@ -5,5 +5,6 @@ public class ArraysCreation {
         int numbers[] = {1, 2, 3};
         System.out.println(marks[0]);
         System.out.println(numbers[123]);
+        
     }
 }

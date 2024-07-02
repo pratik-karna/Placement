@@ -3,5 +3,7 @@
         "Karna",
         "methodoverloading",
         "Pratik"
-    ]
+    ],
+    "git.ignoreLimitWarning": true,
+    "DockerRun.DisableDockerrc": true
 }
