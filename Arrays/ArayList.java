@@ -1,4 +1,6 @@
-public class ArrayList {
+package Arrays;
+
+public class ArayList {
     public static void main(String[] args) {
         int n = 10;
         int i = 0, j = 1, nextTerm;

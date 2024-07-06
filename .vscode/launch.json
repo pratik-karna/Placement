@@ -1,0 +1,476 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "ArrayList",
+      "request": "launch",
+      "mainClass": "ArrayList",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "ArraysCreation",
+      "request": "launch",
+      "mainClass": "ArraysCreation",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Basic.ConditionalStatement.Calculator",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "ElseIf",
+      "request": "launch",
+      "mainClass": "Basic.ConditionalStatement.ElseIf",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "IfElse",
+      "request": "launch",
+      "mainClass": "Basic.ConditionalStatement.IfElse",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "IncomeTaxCalculator",
+      "request": "launch",
+      "mainClass": "Basic.ConditionalStatement.IncomeTaxCalculator",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "LargestOfTwoNumbers",
+      "request": "launch",
+      "mainClass": "Basic.ConditionalStatement.LargestOfTwoNumbers",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "OddOrEven",
+      "request": "launch",
+      "mainClass": "Basic.ConditionalStatement.OddOrEven",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "PositiveOrNegativeNumber",
+      "request": "launch",
+      "mainClass": "Basic.ConditionalStatement.PositiveOrNegativeNumber",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "PrintTheLargestOfThreeNumbers",
+      "request": "launch",
+      "mainClass": "Basic.ConditionalStatement.PrintTheLargestOfThreeNumbers",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "StudentPassOrFail",
+      "request": "launch",
+      "mainClass": "Basic.ConditionalStatement.StudentPassOrFail",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "SwitchStatement",
+      "request": "launch",
+      "mainClass": "Basic.ConditionalStatement.SwitchStatement",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "TernaryOperators",
+      "request": "launch",
+      "mainClass": "Basic.ConditionalStatement.TernaryOperators",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "WeekSwitch",
+      "request": "launch",
+      "mainClass": "Basic.ConditionalStatement.WeekSwitch",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "Avg3num",
+      "request": "launch",
+      "mainClass": "Basic.Function.Avg3num",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "BinomialCoefficient",
+      "request": "launch",
+      "mainClass": "Basic.Function.BinomialCoefficient",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "CallByValue",
+      "request": "launch",
+      "mainClass": "Basic.Function.CallByValue",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "FunctionOverloading",
+      "request": "launch",
+      "mainClass": "Basic.Function.FunctionOverloading",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "Basic.Function.HelloWorld",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "PrimeInRange",
+      "request": "launch",
+      "mainClass": "Basic.Function.PrimeInRange",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "PrimeOrNot",
+      "request": "launch",
+      "mainClass": "Basic.Function.PrimeOrNot",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "Product",
+      "request": "launch",
+      "mainClass": "Basic.Function.Product",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "Basic.Function.Sum",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "BreakStatement",
+      "request": "launch",
+      "mainClass": "Basic.Loop.BreakStatement",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "ContinueStatement",
+      "request": "launch",
+      "mainClass": "Basic.Loop.ContinueStatement",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "DoWhileLoop",
+      "request": "launch",
+      "mainClass": "Basic.Loop.DoWhileLoop",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "ForLoop",
+      "request": "launch",
+      "mainClass": "Basic.Loop.ForLoop",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "NestedForLoop",
+      "request": "launch",
+      "mainClass": "Basic.Loop.NestedForLoop",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "PrimeOrNot(1)",
+      "request": "launch",
+      "mainClass": "Basic.Loop.PrimeOrNot",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "Print1to10",
+      "request": "launch",
+      "mainClass": "Basic.Loop.Print1to10",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "PrintNumberFrom1ton",
+      "request": "launch",
+      "mainClass": "Basic.Loop.PrintNumberFrom1ton",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "PrintSquarePattern",
+      "request": "launch",
+      "mainClass": "Basic.Loop.PrintSquarePattern",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "QuestionBreakStatement",
+      "request": "launch",
+      "mainClass": "Basic.Loop.QuestionBreakStatement",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "ReverseOfNumber",
+      "request": "launch",
+      "mainClass": "Basic.Loop.ReverseOfNumber",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "SumOfFirstnNaturalNumbers",
+      "request": "launch",
+      "mainClass": "Basic.Loop.SumOfFirstnNaturalNumbers",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "WhileLoop",
+      "request": "launch",
+      "mainClass": "Basic.Loop.WhileLoop",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "sum_of1_100",
+      "request": "launch",
+      "mainClass": "Basic.Loop.sum_of1_100",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "ArithmeticOperators",
+      "request": "launch",
+      "mainClass": "Basic.Operators.ArithmeticOperators",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "AssignmentOperator",
+      "request": "launch",
+      "mainClass": "Basic.Operators.AssignmentOperator",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "Bitwise",
+      "request": "launch",
+      "mainClass": "Basic.Operators.Bitwise",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "ConditionalOperators",
+      "request": "launch",
+      "mainClass": "Basic.Operators.ConditionalOperators",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "LogicalOperators",
+      "request": "launch",
+      "mainClass": "Basic.Operators.LogicalOperators",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "RelationalOperators",
+      "request": "launch",
+      "mainClass": "Basic.Operators.RelationalOperators",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "UnaryOperators",
+      "request": "launch",
+      "mainClass": "Basic.Operators.UnaryOperators",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "Input",
+      "request": "launch",
+      "mainClass": "Basic.String.Input",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "Addition",
+      "request": "launch",
+      "mainClass": "Basic.Variable.Addition",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "AreaSquare",
+      "request": "launch",
+      "mainClass": "Basic.Variable.AreaSquare",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "AverageNumber",
+      "request": "launch",
+      "mainClass": "Basic.Variable.AverageNumber",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "BoilerCode",
+      "request": "launch",
+      "mainClass": "Basic.Variable.BoilerCode",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "CircleArea",
+      "request": "launch",
+      "mainClass": "Basic.Variable.CircleArea",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "Input(1)",
+      "request": "launch",
+      "mainClass": "Basic.Variable.Input",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "Problem1",
+      "request": "launch",
+      "mainClass": "Basic.Variable.Problem1",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "Product(1)",
+      "request": "launch",
+      "mainClass": "Basic.Variable.Product",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "SimpleInterest",
+      "request": "launch",
+      "mainClass": "Basic.Variable.SimpleInterest",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "StarPattern",
+      "request": "launch",
+      "mainClass": "Basic.Variable.StarPattern",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "Sum(1)",
+      "request": "launch",
+      "mainClass": "Basic.Variable.Sum",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "TypeCasting",
+      "request": "launch",
+      "mainClass": "Basic.Variable.TypeCasting",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "TypeConversion",
+      "request": "launch",
+      "mainClass": "Basic.Variable.TypeConversion",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "TypePromotionExpression",
+      "request": "launch",
+      "mainClass": "Basic.Variable.TypePromotionExpression",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "CharAt",
+      "request": "launch",
+      "mainClass": "CharAt",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "Concatenation",
+      "request": "launch",
+      "mainClass": "Concatenation",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "Creation",
+      "request": "launch",
+      "mainClass": "Creation",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "Input(2)",
+      "request": "launch",
+      "mainClass": "Input",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "LargestNumberArray",
+      "request": "launch",
+      "mainClass": "LargestNumberArray",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "LinearSearch",
+      "projectName": "Placement_21b797cf"
+    },
+    {
+      "type": "java",
+      "name": "StringLength",
+      "request": "launch",
+      "mainClass": "StringLength",
+      "projectName": "Placement_21b797cf"
+    }
+  ]
+}
